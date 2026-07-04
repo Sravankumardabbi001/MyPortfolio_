@@ -1,0 +1,1 @@
+Patch notes: center social icons, set fixed columns for desktop, align heights to 420px, responsive adjustments.
